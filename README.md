@@ -14,7 +14,7 @@ I’m interested in large-scale open-source projects, 3D modeling and global tea
 **Language**: English, Esperanto, 日本語, Portuguese, Spanish.
 
 # 🎈- Projects I'm part of
-- **[MiSC Labs](https://github.com/MiSC-Labs)**
+- **[MiSC Labs](https://github.com/misynth)**
 - **[Team-BRAPA](https://github.com/Team-BRAPA)**
 - **Crystal Voice Studios**:
 
