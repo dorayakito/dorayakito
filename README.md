@@ -1,3 +1,11 @@
+<div align="center">
+  <a href="https://github.com/dorayakito">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dorayakito&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/dorayakito">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorayakito&layout=compact" />
+  </a>
+</div>
 # - 👋 Hi, I’m dorayakito.
 I’m interested in large-scale open-source projects, 3D modeling and global teaching. Looking to collaborate on Vocal Synth Projects and Linux/Windows softwares and kernel compatibility. I particularly love everything related to Linux but I also work very well with Windows. I have plans to port my projects to MacOS as well.
 
