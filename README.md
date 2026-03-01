@@ -1,4 +1,4 @@
-# - 👋 Hi, I’m dorayakito.
+# - 👋 Hi, I’m dorayakito (a.k.a Xiao).
 I’m interested in large-scale open-source projects and global teaching. Looking to collaborate on Vocal Synth Projects and Linux/Windows softwares and kernel compatibility. I particularly love everything related to Linux but I also work very well with Windows. I have plans to port my projects to MacOS as well.
 
 # 📊 GitHub Stats
