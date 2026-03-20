@@ -1,28 +1,41 @@
-# - 👋 Hi, I’m dorayakito (a.k.a Xiao).
-I’m interested in large-scale open-source projects and global teaching. Looking to collaborate on Vocal Synth Projects and Linux/Windows softwares and kernel compatibility. I particularly love everything related to Linux but I also work very well with Windows. I have plans to port my projects to MacOS as well.
+# Hi, I’m dorayakito (a.k.a. Xiao)
 
-# 📊 GitHub Stats
+I am interested in large-scale open-source projects and global teaching. I focus on collaborating on Vocal Synth projects, as well as software and kernel compatibility for Linux and Windows. While I have a particular affinity for Linux, I am proficient in Windows and have active plans to port my projects to macOS.
 
-**Programming languages**: Python - Java - JavaScript - TypeScript - C - C# - C++.
+## Collaboration & Focus
+* Vocal Synth Projects
+* Linux/Windows Software & Kernel Compatibility
+* Cross-platform development (macOS porting)
 
-- **I’m currently learning**:
-**Language**: Assembly - HTML - Rust - Kotlin.
+## GitHub Stats & Skills
 
-- **I already know but still practicing and improving**:
+### Programming Languages
+* **Proficient:** Python, Java, JavaScript, TypeScript, C, C#, C++
+* **Learning:** Assembly, Rust, Kotlin, HTML
+* **Practicing & Improving:** C++, C#, MySQL, Java, Python
 
-**Programming languages**: C++, C#, MySQL, Java, Python.
-**Language**: Portuguese, English, Esperanto, 日本語, 普通话, Spanish.
+### Languages (Linguistic)
+* Portuguese (Native/Fluent)
+* English
+* Esperanto
+* 日本語 (Japanese)
+* 普通话 (Mandarin Chinese)
+* Spanish
 
-# 🎈- Projects I'm part of
-- **[Team-BRAPA](https://github.com/Team-BRAPA)**
-- **[POMAR LTS](https://github.com/studiopomar)**
-- **[MiSC Labs](https://github.com/misynth)**
-- **Crystal Voice Studios**:
+## Projects & Organizations
+* **[Team-BRAPA](https://github.com/Team-BRAPA)**
+* **[POMAR LTS](https://github.com/studiopomar)**
+* **[MiSC Labs](https://github.com/misynth)**
+* **[Arabic UTAU Resources](https://github.com/Arabic-UTAU-Resources/)**
+* 
 
-# 💻🖱️ - My lite setup!
-***Dual boot: Windows11 && CachyOS***
-|**CPU**| **GPU** |
-|--|--|
-| *Core i5 9400F* | *RX 5500 XT 8GB* |
-|**Memory**| **Storage** |
-| *2x8GB DDR4@2666* | 512 SSD + 512GB HDD |
+##
+Technical Setup
+**Dual boot: Windows 11 & CachyOS**
+
+| Component | Specification |
+| :--- | :--- |
+| **CPU** | Core i5 9400F |
+| **GPU** | RX 5500 XT 8GB |
+| **Memory** | 16GB (2x8GB) DDR4 @ 2666MHz |
+| **Storage** | 512GB SSD + 512GB SSD + 512GB HDD |
