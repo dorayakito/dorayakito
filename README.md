@@ -16,7 +16,7 @@ I am interested in large-scale open-source projects and global teaching. I focus
 ## GitHub Stats & Skills
 
 ### Programming Languages
-* **Proficient:** Python, Java, JavaScript, TypeScript, C, C#, C++
+* **Proficient:** C, C#, C++
 * **Learning:** Assembly, Rust, Kotlin, HTML
 * **Practicing & Improving:** C++, C#, MySQL, Java, Python
 
