@@ -2,6 +2,12 @@
 
 I am interested in large-scale open-source projects and global teaching. I focus on collaborating on Vocal Synth projects, as well as software and kernel compatibility for Linux and Windows. While I have a particular affinity for Linux, I am proficient in Windows and have active plans to port my projects to macOS.
 
+![Top Langs](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=dorayakito&layout=compact&theme=vision-glow&hide=html,css)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![OpenUTAU](https://img.shields.io/badge/OpenUTAU-Vocal_Synth-blueviolet?style=for-the-badge)
+
 ## Collaboration & Focus
 * Vocal Synth Projects
 * Linux/Windows Software & Kernel Compatibility
