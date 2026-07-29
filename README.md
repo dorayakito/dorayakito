@@ -19,8 +19,8 @@ I am interested in large-scale open-source projects and global teaching. I focus
 ### Specialized Focus
 ![Vocal Synth](https://img.shields.io/badge/Vocal_Synth-OpenUTAU-blueviolet?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cross-Platform](https://img.shields.io/badge/Cross--Platform-Windows%20%7C%20Linux%20%7C%20macOS-0078D6?style=for-the-badge)
 ![Kernel](https://img.shields.io/badge/Kernel_Dev-000000?style=for-the-badge&logo=linux-foundation&logoColor=white)
-![CachyOS](https://img.shields.io/badge/CachyOS-00ADEF?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 ---
 
@@ -52,11 +52,23 @@ I am interested in large-scale open-source projects and global teaching. I focus
 * **[Arabic UTAU Resources](https://github.com/Arabic-UTAU-Resources/)**
 
 ## Technical Setup
+
+### Desktop
 **Dual boot: Windows 11 & CachyOS**
 
 | Component | Specification |
 | :--- | :--- |
-| **CPU** | Core i5 9400F |
-| **GPU** | RX 5500 XT 8GB |
-| **Memory** | 16GB (2x8GB) DDR4 @ 2666MHz |
-| **Storage** | 1.5TB Total (512GB SSD x2 + 512GB HDD) |
+| **CPU** | Intel Core i5-9400F |
+| **GPU** | AMD Radeon RX 5500 XT 8GB |
+| **Memory** | 16GB DDR4 @ 2666MHz |
+| **Storage** | 1.5TB Total (512GB SSD ×2 + 512GB HDD) |
+
+### Laptop
+**Apple MacBook Pro (M1, 2020)**
+
+| Component | Specification |
+| :--- | :--- |
+| **Chip** | Apple M1 |
+| **Memory** | 8GB Unified Memory |
+| **Storage** | 256GB SSD |
+| **Operating System** | macOS Tahoe |
