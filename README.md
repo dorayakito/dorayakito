@@ -23,17 +23,17 @@
 ### Sobre Mim
 
 - **Especialista no ecossistema Vocal Synth**: desenvolvimento de resamplers, phonemizers e DAWs baseadas em OpenUtau, UTAU e DiffSinger.
-- **DSP e Audio Processing**: processamento de magnitudes FFT, resamplers em C++ e Rust e algoritmos neurais de voz.
+- **DSP e Áudio de Baixo Nível**: processamento de magnitudes FFT, resamplers em C++ e Rust e algoritmos neurais de voz.
 - **Ambientes e Compatibilidade**: macOS (Apple Silicon / M1) e Linux (CachyOS, Bluefin) como sistemas principais, com ampla experiência em desenvolvimento multiplataforma e compatibilidade no Windows.
 - **Workflow e Filosofia**: foco em código estruturado e engenharia determinística (não adepto de vibe coding). Para consultas de erros, análise e debug, utilizo modelos de IA locais rodando diretamente no MacBook Pro M1.
 - **Sustentabilidade**: ambiente doméstico e estação de desenvolvimento alimentados por energia solar.
-- **Contribuicoes Globais**: criacao de padroes foneticos multilinguais (Portugues Brasileiro e Mandarim Padrao).
+- **Contribuições Globais**: criação de padrões fonéticos multilinguais (Português Brasileiro e Mandarim Padrão).
 
 ---
 
 ### Tech Stack e Tecnologias
 
-#### Linguagens de Programacao
+#### Linguagens de Programação
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
-#### Sintese Vocal, DSP e Audio
+#### Síntese Vocal, DSP e Áudio
 <p align="left">
   <img src="https://img.shields.io/badge/Vocal_Synth-OpenUtau-7952B3?style=for-the-badge" alt="OpenUtau" />
   <img src="https://img.shields.io/badge/DiffSinger-AI_Singing-FF6B6B?style=for-the-badge" alt="DiffSinger" />
@@ -64,21 +64,21 @@
 
 ### Projetos em Destaque
 
-| Projeto | Descricao | Stack |
+| Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
 | **[Kamafeu](https://github.com/studiopomar/kamafeu)** | Editor e sintetizador vocal moderno em Rust compatível com UTAU, OpenUtau e oto.ini. Piano roll multifaixa e motor DSP nativo (TD-PSOLA). | `Rust` `DSP/TD-PSOLA` `egui` |
-| **[Copaiba NEO](https://studiopomar.github.io/Copaiba-NEO/)** | Suite interativa de análise espectral e computação de magnitudes FFT em tempo real para áudio e síntese vocal. | `Rust` `Wasm` `WebAudio` `DSP` |
-| **[Resonata-Studio](https://github.com/dorayakito/Resonata-Studio)** | Workstation / DAW moderna para cantores virtuais baseada em OpenUtau, DiffSinger e conversao de voz via IA. | `C#` `OpenUtau` `AI/DiffSinger` |
-| **[Phonemizers-PTBR](https://github.com/dorayakito/Phonemizers-PTBR)** | Suite publica de phonemizers multilinguais para o OpenUtau (suporte a PT-BR). | `C#` `G2P` `OpenUtau` |
-| **[VCCX-PT-BR](https://github.com/dorayakito/VCCX-PT-BR)** | Sistema fonetico e framework com +739 amostras e documentacao para voicebanks naturais no UTAU / OpenUtau. | `Phonetics` `Oto.ini` `UTAU` |
+| **[Copaiba NEO](https://studiopomar.github.io/Copaiba-NEO/)** | Suíte interativa de análise espectral e computação de magnitudes FFT em tempo real para áudio e síntese vocal. | `Rust` `Wasm` `WebAudio` `DSP` |
+| **[Resonata-Studio](https://github.com/dorayakito/Resonata-Studio)** | Workstation / DAW moderna para cantores virtuais baseada em OpenUtau, DiffSinger e conversão de voz via IA. | `C#` `OpenUtau` `AI/DiffSinger` |
+| **[Phonemizers-PTBR](https://github.com/dorayakito/Phonemizers-PTBR)** | Suíte pública de phonemizers multilinguais para o OpenUtau (suporte a PT-BR). | `C#` `G2P` `OpenUtau` |
+| **[VCCX-PT-BR](https://github.com/dorayakito/VCCX-PT-BR)** | Sistema fonético e framework com +739 amostras e documentação para voicebanks naturais no UTAU / OpenUtau. | `Phonetics` `Oto.ini` `UTAU` |
 | **[lessampler-ng](https://github.com/dorayakito/lessampler-ng)** | Singing Voice Resampler e sintetizador de alta performance. | `C++` `DSP` `Audio` |
 
 ---
 
-### GitHub Estatisticas
+### Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dorayakito&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatisticas do GitHub" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dorayakito&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dorayakito&layout=compact&theme=tokyonight&hide=html,css&show_icons=true&hide_border=true" alt="Linguagens Mais Utilizadas" />
 </div>
 
@@ -89,5 +89,5 @@
 ---
 
 <div align="center">
-  <sub>Desenvolvimento focado em sintese de voz e codigo aberto.</sub>
+  <sub>Desenvolvimento focado em síntese de voz e código aberto.</sub>
 </div>
