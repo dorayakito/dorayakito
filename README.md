@@ -12,6 +12,7 @@
     <a href="https://github.com/studiopomar"><img src="https://img.shields.io/badge/Studio-Pomar-4361ee?style=flat-square&logo=github" alt="Studio Pomar"/></a>
     <a href="https://github.com/Team-BRAPA"><img src="https://img.shields.io/badge/Team-BRAPA-7b2cbf?style=flat-square&logo=github" alt="Team BRAPA"/></a>
     <a href="https://github.com/EDDIE-PRIZMA"><img src="https://img.shields.io/badge/EDDIE-PRIZMA-3a0ca3?style=flat-square&logo=github" alt="EDDIE PRIZMA"/></a>
+    <img src="https://img.shields.io/badge/Energy-100%25%20Solar%20Powered-f39c12?style=flat-square" alt="Solar Powered"/>
     <img src="https://img.shields.io/badge/Location-Brazil-240046?style=flat-square" alt="Brazil"/>
   </p>
 
@@ -24,6 +25,8 @@
 - **Especialista no ecossistema Vocal Synth**: desenvolvimento de resamplers, phonemizers e DAWs baseadas em OpenUtau, UTAU e DiffSinger.
 - **DSP e Audio Processing**: processamento de magnitudes FFT, resamplers em C++ e Rust e algoritmos neurais de voz.
 - **Ambientes e Compatibilidade**: macOS (Apple Silicon / M1) e Linux (CachyOS, Bluefin) como sistemas principais, com ampla experiência em desenvolvimento multiplataforma e compatibilidade no Windows.
+- **Workflow e Filosofia**: foco em código estruturado e engenharia determinística (não adepto de vibe coding). Para consultas de erros, análise e debug, utilizo modelos de IA locais rodando diretamente no MacBook Pro M1.
+- **Sustentabilidade**: ambiente doméstico e estação de desenvolvimento alimentados por energia solar.
 - **Contribuicoes Globais**: criacao de padroes foneticos multilinguais (Portugues Brasileiro e Mandarim Padrao).
 
 ---
