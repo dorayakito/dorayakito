@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" height="100%">
+  <defs>
+    <!-- Background Solarpunk Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a1c1a" />
+      <stop offset="40%" stop-color="#0f2b26" />
+      <stop offset="80%" stop-color="#1b3d2f" />
+      <stop offset="100%" stop-color="#244a32" />
+    </linearGradient>
+
+    <!-- Solar Gold Radiant Gradient -->
+    <linearGradient id="sunGrad" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e67e22" stop-opacity="0.9" />
+      <stop offset="50%" stop-color="#f39c12" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#f1c40f" stop-opacity="1" />
+    </linearGradient>
+
+    <!-- Leaf Green Gradient -->
+    <linearGradient id="leafGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#55efc4" />
+      <stop offset="50%" stop-color="#00b894" />
+      <stop offset="100%" stop-color="#006266" />
+    </linearGradient>
+
+    <!-- Tech Circuit & Wave Gradient -->
+    <linearGradient id="circuitGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#55efc4" stop-opacity="0.2" />
+      <stop offset="30%" stop-color="#f1c40f" stop-opacity="0.8" />
+      <stop offset="70%" stop-color="#55efc4" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#81ecec" stop-opacity="0.3" />
+    </linearGradient>
+
+    <!-- Solar Panel Hex Pattern -->
+    <pattern id="solarHex" width="28" height="48.497" patternUnits="userSpaceOnUse" patternTransform="scale(1)">
+      <path d="M14 0 L28 8.083 L28 24.249 L14 32.332 L0 24.249 L0 8.083 Z" fill="none" stroke="#55efc4" stroke-width="0.75" stroke-opacity="0.12"/>
+      <path d="M14 16.166 L28 24.249 L28 40.414 L14 48.497 L0 40.414 L0 24.249 Z" fill="none" stroke="#55efc4" stroke-width="0.75" stroke-opacity="0.12"/>
+    </pattern>
+
+    <!-- Soft Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="sunGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="16" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="1200" height="320" rx="16" fill="url(#bgGrad)" />
+
+  <!-- Solar Cell Pattern Overlay -->
+  <rect width="1200" height="320" rx="16" fill="url(#solarHex)" opacity="0.85" />
+
+  <!-- Rising Solarpunk Sun (Right Side Geometric Ring) -->
+  <g transform="translate(1020, 160)">
+    <!-- Sun Rays / Geometric Radiations -->
+    <circle r="140" fill="none" stroke="url(#sunGrad)" stroke-width="1.5" stroke-dasharray="4,8" opacity="0.3" />
+    <circle r="115" fill="none" stroke="#f39c12" stroke-width="1" stroke-dasharray="12,6" opacity="0.4" />
+    <circle r="90" fill="none" stroke="#55efc4" stroke-width="2" opacity="0.25" />
+    <!-- Core Sun Body with Glow -->
+    <circle r="65" fill="url(#sunGrad)" filter="url(#sunGlow)" opacity="0.85" />
+    <circle r="45" fill="#fff9d2" opacity="0.9" />
+
+    <!-- Concentric solar rings -->
+    <circle r="22" fill="none" stroke="#e67e22" stroke-width="2" opacity="0.6" />
+  </g>
+
+  <!-- Left Side Botanical / Vine Flourishes (Vector Vines) -->
+  <g opacity="0.4" stroke="url(#leafGrad)" fill="none" stroke-width="2" stroke-linecap="round">
+    <!-- Vine paths -->
+    <path d="M -20,340 Q 80,240 60,140 T 140,40" />
+    <path d="M 40,340 Q 120,200 180,220 T 260,120" />
+    <path d="M 120,340 Q 200,260 220,180" />
+  </g>
+
+  <!-- Botanical Leaves (Solarpunk Bio-Tech integration) -->
+  <g fill="url(#leafGrad)" opacity="0.75">
+    <!-- Leaf 1 -->
+    <path d="M 60,140 C 40,110 80,90 100,105 C 105,125 80,145 60,140 Z" />
+    <!-- Leaf 2 -->
+    <path d="M 140,40 C 165,20 185,45 175,65 C 155,75 135,55 140,40 Z" />
+    <!-- Leaf 3 -->
+    <path d="M 180,220 C 170,185 210,175 225,195 C 220,220 195,230 180,220 Z" />
+    <!-- Leaf 4 -->
+    <path d="M 260,120 C 290,100 305,130 290,145 C 270,150 250,135 260,120 Z" />
+    <!-- Leaf 5 -->
+    <path d="M 100,280 C 120,250 150,265 145,285 C 130,300 105,295 100,280 Z" />
+  </g>
+
+  <!-- DSP Audio Waveform / Solar Pulse Lines (Harmonic Sine Waves) -->
+  <g stroke="url(#circuitGrad)" fill="none" stroke-linecap="round">
+    <!-- Carrier Audio Wave -->
+    <path d="M 0,220 Q 75,180 150,220 T 300,220 T 450,220 T 600,220 T 750,220 T 900,220 T 1050,220 T 1200,220" stroke-width="1.5" opacity="0.35"/>
+    
+    <!-- Modulated Synthesizer Wave -->
+    <path d="M 0,220 C 100,120 150,300 250,220 C 350,140 400,290 500,220 C 600,150 650,280 750,220 C 850,160 900,270 1000,220 C 1100,170 1150,260 1200,220" stroke-width="2.5" filter="url(#glow)"/>
+
+    <!-- Harmonic FFT Wave -->
+    <path d="M 0,220 Q 50,195 100,220 T 200,220 T 300,220 T 400,220 T 500,220 T 600,220 T 700,220 T 800,220 T 900,220 T 1000,220 T 1100,220 T 1200,220" stroke-width="1" opacity="0.45"/>
+  </g>
+
+  <!-- Circuit nodes (Bio-circuitry connection points) -->
+  <g fill="#55efc4" opacity="0.8">
+    <circle cx="250" cy="220" r="3.5" />
+    <circle cx="500" cy="220" r="3.5" />
+    <circle cx="750" cy="220" r="3.5" />
+    <circle cx="1000" cy="220" r="4" fill="#f1c40f" filter="url(#glow)" />
+  </g>
+
+  <!-- Header Typography & Identity -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Fira Code', Roboto, Helvetica, Arial, sans-serif">
+    
+    <!-- Mini Sub-header / Pill Tag -->
+    <g transform="translate(80, 68)">
+      <rect width="250" height="26" rx="13" fill="#00b894" fill-opacity="0.18" stroke="#55efc4" stroke-width="1" stroke-opacity="0.5" />
+      <circle cx="14" cy="13" r="4" fill="#f1c40f" />
+      <text x="28" y="17" font-size="11.5" font-weight="600" fill="#55efc4" letter-spacing="1.5">100% SOLAR-POWERED LAB</text>
+    </g>
+
+    <!-- Main Title -->
+    <text x="80" y="145" font-size="44" font-weight="800" fill="#ffffff" letter-spacing="0.5">
+      dorayakito <tspan fill="#55efc4" font-weight="400">(</tspan><tspan fill="#f1c40f">Xiao</tspan><tspan fill="#55efc4" font-weight="400">)</tspan>
+    </text>
+
+    <!-- Subtitle / Mission Line -->
+    <text x="80" y="182" font-size="16" font-weight="500" fill="#a8e6cf" letter-spacing="0.8">
+      Vocal Synthesis • Digital Signal Processing (DSP) • Local AI Workstation
+    </text>
+
+    <!-- Philosophy Tagline -->
+    <text x="80" y="272" font-size="13.5" font-weight="500" fill="#81ecec" opacity="0.8" letter-spacing="0.5">
+      Studio Pomar • OpenUtau Ecosystem • macOS M1 &amp; CachyOS/Bluefin Linux
+    </text>
+  </g>
+
+  <!-- Frame Highlight Border -->
+  <rect x="1" y="1" width="1198" height="318" rx="15" fill="none" stroke="url(#circuitGrad)" stroke-width="1.2" opacity="0.6" />
+</svg>
