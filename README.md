@@ -2,7 +2,7 @@
 
   # dorayakito (Xiao)
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=550&lines=Software+Developer+%26+Vocal+Synth+Enthusiast;Building+tools+for+OpenUtau%2C+DiffSinger+%26+DSP;C%23+%E2%80%A2+C%2B%2B+%E2%80%A2+Rust+%E2%80%A2+Python;Brazil+%E2%80%A2+Linux+%26+Windows+Compatibility)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=550&lines=Software+Developer+%26+Vocal+Synth+Enthusiast;Building+tools+for+OpenUtau%2C+DiffSinger+%26+DSP;C%23+%E2%80%A2+C%2B%2B+%E2%80%A2+Rust+%E2%80%A2+Python;Brazil+%E2%80%A2+macOS+(Apple+Silicon)+%26+Linux)](https://git.io/typing-svg)
 
   <p align="center">
     <strong>Desenvolvedor de Software focado em Síntese Vocal, Processamento Digital de Sinais (DSP) e ferramentas Open Source.</strong>
@@ -22,7 +22,7 @@
 
 - **Especialista no ecossistema Vocal Synth**: desenvolvimento de resamplers, phonemizers e DAWs baseadas em OpenUtau, UTAU e DiffSinger.
 - **DSP e Audio Processing**: processamento de magnitudes FFT, resamplers em C++ e Rust e algoritmos neurais de voz.
-- **Compatibilidade de Sistemas**: experiência aprofundada em Linux e Windows, com planos ativos de portabilidade para macOS.
+- **Ambientes e Compatibilidade**: macOS (Apple Silicon / M1) como workstation principal, além de ampla experiência em Linux e Windows.
 - **Contribuicoes Globais**: criacao de padroes foneticos multilinguais (Portugues Brasileiro e Mandarim Padrao).
 
 ---
@@ -48,6 +48,7 @@
 
 #### Ambiente e Sistemas Operacionais
 <p align="left">
+  <img src="https://img.shields.io/badge/macOS%20(Primary)-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
