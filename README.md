@@ -23,7 +23,7 @@
 
 - **Especialista no ecossistema Vocal Synth**: desenvolvimento de resamplers, phonemizers e DAWs baseadas em OpenUtau, UTAU e DiffSinger.
 - **DSP e Audio Processing**: processamento de magnitudes FFT, resamplers em C++ e Rust e algoritmos neurais de voz.
-- **Ambientes e Compatibilidade**: macOS (Apple Silicon / M1) como workstation principal, além de ampla experiência em Linux e Windows.
+- **Ambientes e Compatibilidade**: macOS (Apple Silicon / M1) e Linux (CachyOS, Bluefin) como sistemas principais, com ampla experiência em desenvolvimento multiplataforma e compatibilidade no Windows.
 - **Contribuicoes Globais**: criacao de padroes foneticos multilinguais (Portugues Brasileiro e Mandarim Padrao).
 
 ---
@@ -50,7 +50,9 @@
 #### Ambiente e Sistemas Operacionais
 <p align="left">
   <img src="https://img.shields.io/badge/macOS%20(Primary)-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Linux%20(Primary)-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/CachyOS-008080?style=for-the-badge&logo=arch-linux&logoColor=white" alt="CachyOS" />
+  <img src="https://img.shields.io/badge/Bluefin-0B3C5D?style=for-the-badge&logo=fedora&logoColor=white" alt="Bluefin" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
