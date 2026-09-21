@@ -9,6 +9,7 @@
   </p>
 
   <p align="center">
+    <a href="https://github.com/studiopomar"><img src="https://img.shields.io/badge/Studio-Pomar-4361ee?style=flat-square&logo=github" alt="Studio Pomar"/></a>
     <a href="https://github.com/Team-BRAPA"><img src="https://img.shields.io/badge/Team-BRAPA-7b2cbf?style=flat-square&logo=github" alt="Team BRAPA"/></a>
     <a href="https://github.com/EDDIE-PRIZMA"><img src="https://img.shields.io/badge/EDDIE-PRIZMA-3a0ca3?style=flat-square&logo=github" alt="EDDIE PRIZMA"/></a>
     <img src="https://img.shields.io/badge/Location-Brazil-240046?style=flat-square" alt="Brazil"/>
@@ -60,11 +61,12 @@
 
 | Projeto | Descricao | Stack |
 | :--- | :--- | :--- |
+| **[Kamafeu](https://github.com/studiopomar/kamafeu)** | Editor e sintetizador vocal moderno em Rust compatível com UTAU, OpenUtau e oto.ini. Piano roll multifaixa e motor DSP nativo (TD-PSOLA). | `Rust` `DSP/TD-PSOLA` `egui` |
+| **[Copaiba NEO](https://studiopomar.github.io/Copaiba-NEO/)** | Suite interativa de análise espectral e computação de magnitudes FFT em tempo real para áudio e síntese vocal. | `Rust` `Wasm` `WebAudio` `DSP` |
 | **[Resonata-Studio](https://github.com/dorayakito/Resonata-Studio)** | Workstation / DAW moderna para cantores virtuais baseada em OpenUtau, DiffSinger e conversao de voz via IA. | `C#` `OpenUtau` `AI/DiffSinger` |
 | **[Phonemizers-PTBR](https://github.com/dorayakito/Phonemizers-PTBR)** | Suite publica de phonemizers multilinguais para o OpenUtau (suporte a PT-BR). | `C#` `G2P` `OpenUtau` |
 | **[VCCX-PT-BR](https://github.com/dorayakito/VCCX-PT-BR)** | Sistema fonetico e framework com +739 amostras e documentacao para voicebanks naturais no UTAU / OpenUtau. | `Phonetics` `Oto.ini` `UTAU` |
 | **[lessampler-ng](https://github.com/dorayakito/lessampler-ng)** | Singing Voice Resampler e sintetizador de alta performance. | `C++` `DSP` `Audio` |
-| **[RUST-Spectrogram](https://github.com/dorayakito/RUST-Spectrogram)** | Computacao de magnitudes FFT de audio em tempo real para Copaiba NEO. | `Rust` `FFT` `DSP` |
 
 ---
 
